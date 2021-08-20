@@ -1,0 +1,22 @@
+HORARIOS_D = #[
+1 : <"A", "MANHA">, 
+2 : <"B", "MANHA">,
+3 : <"C", "MANHA">,
+4 : <"D", "MANHA">,
+5 : <"A", "TARDE">, 
+6 : <"B", "TARDE">,
+7 : <"C", "TARDE">,
+8 : <"D", "TARDE">,
+9 : <"A", "NOITE">, 
+10 : <"B","NOITE">,
+11: <"C", "NOITE">,
+12 : <"D", "NOITE">
+]#;
+
+HORARIOS_S = #[
+1 : <"SEG">, 
+2 : <"TER">,
+3 : <"QUA">,
+4 : <"QUI">,
+5 : <"SEX">
+]#;
